@@ -4,7 +4,7 @@
 *                                                     
 *  For use with TTN or ChirpStack network deployments 
 *                                                     
-*  Written by Adam Hunter - adam.hunter@utopi.co.uk   
+*  Written by Adam Hunter @ Utopi Ltd 
 *
 ********************************************************/
 
